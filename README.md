@@ -1,3 +1,9 @@
+Original repository: https://github.com/chrisdonahue/wavegan
+
+This is a fork.
+
+---
+
 # WaveGAN (v2)
 
 Official implementation of **WaveGAN**, a machine learning algorithm which learns to generate raw audio waveforms.
